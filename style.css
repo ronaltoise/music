@@ -1,0 +1,83 @@
+*{
+ margin: 0; padding: 0;
+ box-sizing: border-box; font-family: 'Maven Pro', sans-serif;
+ background-color:black;
+}
+
+h1{
+ text-align: center; font-size: 1.8rem;
+ color: white; padding: 30px 0;
+ height:100%;
+}
+
+main{
+ width: 90%; height: 90%;
+ margin: auto; border: 1px solid black;
+ display: flex; justify-content: space-around;
+ align-items: center; flex-wrap: wrap;
+}
+
+div{
+ width: 30%; height: 160px;
+ /*border: 1px solid red;*/
+ box-shadow: 2px 2px 5px grey;
+ border-radius: 10px; cursor: pointer;
+}
+
+.song
+{
+  color:yellow;
+  font-size: 20px ;
+}
+
+.a{
+  background-image: url('images/bpain.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.b{
+background-image: url('images/castle.jpeg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+
+.c{
+background-image: url('images/dusk.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+
+.d{
+background-image: url('images/hall.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+
+.e{
+background-image: url('images/night.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+.f{
+background-image: url('images/silence.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+.g{
+background-image: url('images/unforget.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+
+.h{
+background-image: url('images/way.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+
+.i{
+background-image: url('images/kachra.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
